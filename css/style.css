@@ -8,6 +8,14 @@ body{
 .main{
     margin-top:300px;
 }
+
+.main h2{
+    font-size: 16px;
+}
+
+.main-nav{
+    margin-top: 20px;
+}
 .main-nav li{
     line-height: 40px;
     width:80px;
