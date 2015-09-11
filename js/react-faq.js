@@ -1,5 +1,6 @@
 /**
  * @author: Hasin Hayder
+ * @licence: MIT
  */
 
 var GoBack = React.createClass({
