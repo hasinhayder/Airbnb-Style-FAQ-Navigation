@@ -59,6 +59,11 @@ body{
     float: left;
 }
 
+.faq-icon img{
+    width: 50px;
+    height:auto;
+}
+
 .faq-content {
     padding:5px 12px;
     line-height: 27px;
